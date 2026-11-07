@@ -104,6 +104,18 @@ Le contenu de `lib/camera_intelligente_inferencing/` inclut du code généré et
 
 ## Travail en équipe et crédits
 
-Projet académique réalisé **en équipe de trois étudiants**. Les schémas, le firmware, le modèle IA et les illustrations représentent le **travail collectif** ; leur présence ne signifie pas qu’une seule personne a réalisé toutes ces parties. Les contributions individuelles peuvent être détaillées séparément lorsque leur répartition est confirmée par l’équipe.
+### Réalisation du projet
 
-Les droits des coauteurs et les licences des bibliothèques tierces doivent être respectés. Aucun droit de réutilisation global du projet collectif n'est accordé par ce dépôt sans l’accord des personnes concernées.
+Ce projet a été réalisé en équipe de trois étudiants dans le cadre du DEC en technologie du génie électrique – électronique programmable au Cégep de l'Outaouais.
+
+Nous avons travaillé ensemble sur les différentes étapes du projet :
+
+- Conception des schémas électroniques et du circuit imprimé (PCB) avec Fusion 360 Electronics.
+- Programmation du microcontrôleur ESP32-S3 en C++.
+- Intégration de la caméra OV7670 et de l'écran TFT.
+- Intégration du modèle de reconnaissance de chiffres avec Edge Impulse.
+- Communication Wi-Fi/MQTT avec ThingsBoard.
+- Conception du boîtier 3D sous Fusion 360.
+- Assemblage, intégration et tests du système.
+
+Les différentes étapes ont été réalisées en collaboration par les membres de l'équipe.
